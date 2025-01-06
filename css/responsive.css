@@ -122,6 +122,10 @@
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
+    iframe{
+        height: 300px !important;
+        width: 250px !important;
+    }
     .banner_main {
         padding: 152px 0px 90px 0px;
         background-color: #cacaca !important;
