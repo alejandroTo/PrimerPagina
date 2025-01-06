@@ -124,7 +124,7 @@
 @media (min-width: 576px) and (max-width: 767px) {
     iframe{
         height: 300px !important;
-        width: 250px !important;
+        width: 300px !important;
     }
     .banner_main {
         padding: 152px 0px 90px 0px;
@@ -202,7 +202,7 @@
 @media (max-width: 575px) {
     iframe{
         height: 300px !important;
-        width: 250px !important;
+        width: 80% !important;
     }
     .header {
         padding: 30px 0px 15px 0px;
