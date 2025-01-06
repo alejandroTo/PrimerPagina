@@ -196,6 +196,10 @@
 }
 
 @media (max-width: 575px) {
+    iframe{
+        height: 300px !important;
+        width: 250px !important;
+    }
     .header {
         padding: 30px 0px 15px 0px;
     }
