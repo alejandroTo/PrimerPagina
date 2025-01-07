@@ -347,7 +347,7 @@ ul.conat_info li a:hover {
 }
 
 .text-bg h1 {
-     color: #0f98f8;
+     color: #DE0510;
      font-size: 60px;
      line-height: 70px;
      padding-bottom: 45px;
@@ -461,7 +461,7 @@ ul.conat_info li a:hover {
 
 .titlepage h2 {
      font-size: 50px;
-     color: #0f98f8;
+     color: #DE0510;
      line-height: 45px;
      font-weight: bold;
      padding: 0;
@@ -1039,7 +1039,7 @@ ul.location_icon li a:hover {
 }
 
 .copyright {
-     background-color: #0f98f8;
+     background-color: #003464;
      margin-top: 70px;
      padding: 20px 0;
 }
